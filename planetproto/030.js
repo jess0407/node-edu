@@ -1,7 +1,7 @@
 // -> Let's define three objects: 'machine' 'vehicle' and 'robot'
-var machine = {}
-var vehicle = {}
-var robot = {}
+var machine = {};
+var vehicle = {};
+var robot = {};
 
 // -> Make machine the prototype of vehicle
 // -> Make machine the prototype of robot
