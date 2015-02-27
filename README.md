@@ -5,3 +5,4 @@
 3. functional javascript -- 9/18
 4. planet proto -- complete
 5. promise it won't hurt -- complete
+6. browserfy adventure -- 5/10
