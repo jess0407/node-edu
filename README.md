@@ -6,4 +6,4 @@
 4. planet proto -- complete
 5. promise it won't hurt -- complete
 6. browserfy adventure -- complete
-7. test anything  -- 1/5
+7. test anything  -- 2/5
