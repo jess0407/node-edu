@@ -7,3 +7,4 @@
 5. promise it won't hurt -- complete
 6. browserfy adventure -- complete
 7. test anything  -- complete
+8. Scope Chains And Closures -- 0/5
