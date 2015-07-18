@@ -8,3 +8,5 @@
 6. browserfy adventure -- complete
 7. test anything  -- complete
 8. Scope Chains And Closures -- 0/5
+9. Bug Clinic -- 0/13
+10. Tower of Bebel -- 0/12
